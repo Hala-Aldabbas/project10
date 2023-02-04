@@ -1,0 +1,71 @@
+.bb{
+  background-image: url("https://image2.jdomni.in/banner/24032022/14/67/0D/1EB88CD1C55288AE1261F1FECB_1648121852604.jpg?output-format=webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  width:60vw;
+  height: 100vh;
+}
+.city {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+  text-transform: capitalize;
+  padding-bottom: 20px;
+  color:#f8b839;
+  border-radius: 50%;
+}
+
+.humid-wind {
+  text-align: right;
+  color:#f8b739;
+  font-weight: 500;
+  font-size: 30px;
+}
+
+.date-time {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  color:#f8b739;
+  font-weight: 500;
+  font-size: 30px;
+}
+
+.temp-main {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.temp-main img{
+  background:white;
+
+}
+
+.temp-main .active {
+  font-weight: 400;
+  cursor: default;
+  color: #f8b739;
+}
+
+.temperature {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  text-align: right;
+  font-size: 60px;
+  padding: none;
+  color:#f8b739;
+  font-weight: 500;
+}
+
+.forecast-icon {
+  height: 55px;
+}
+
+.forecast-temp {
+  padding-bottom: 8px;
+}
+
+.forecast-description {
+  font-size: 12px;
+  text-transform: capitalize;
+}

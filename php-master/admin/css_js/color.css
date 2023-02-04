@@ -1,0 +1,21 @@
+a{
+    text-decoration: none;
+}
+.logo{
+    text-transform: uppercase;
+    background-color: cornflowerblue;
+    color: black;
+    padding: 10px;
+}
+.logo a{
+    color: black;
+}
+.table{
+    vertical-align: middle;
+}
+table img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
